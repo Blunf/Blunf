@@ -1,7 +1,7 @@
 
-<div style="text-align : center;">
+<p align="center"> 
      <img src="/clipart3306554.png">
-</div>
+</p>
 
 <h2 align="center"> 💫 Dark mode freak </h2>
 <h3 align="center"> I’m currently working on nothing! <h3><br><br>
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry)
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry)</p>
 
 <p align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
