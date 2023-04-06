@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry)
 
+<center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blunf&layout=compact&langs_count=4&theme=blueberry" />
 </a>
@@ -30,4 +31,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blunf&repo=github-readme-stats&theme=blueberry" />
 </a>
+</center>
 
