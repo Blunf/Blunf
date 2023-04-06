@@ -1,7 +1,7 @@
 
-<center>
-     <img src="/pngaaa.com-4690558.png">
-</center>
+<div style="text-align : center;">
+     <img src="https://www.clipartmax.com/png/small/330-3306554_cinnamoroll-sanrio-cinnamon-roll-transparent.png">
+</div>
 
 <h2 align="center"> 💫 Dark mode freak </h2>
 <h3 align="center"> I’m currently working on nothing! <h3><br><br>
