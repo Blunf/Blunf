@@ -1,5 +1,8 @@
-### 💫 Dark mode freak
-### 🔭 I’m currently working on nothing!
+<img src=”[img path](https://image.pngaaa.com/558/4690558-middle.png)” alt=”cinnamoroll”>
+
+<h2 align="center"> 💫 Dark mode freak </h2>
+<h3 align="center"> I’m currently working on nothing! <h3><br><br>
+  
 <!--
 **Blunf/Blunf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blunf&layout=compact&langs_count=4&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
