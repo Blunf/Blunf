@@ -1,4 +1,4 @@
-<img src=”https://image.pngaaa.com/558/4690558-middle.png”>
+<img src=”https://image.pngaaa.com/558/4690558-middle.png”, align="center">
 
 <h2 align="center"> 💫 Dark mode freak </h2>
 <h3 align="center"> I’m currently working on nothing! <h3><br><br>
