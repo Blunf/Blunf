@@ -1,6 +1,6 @@
 
 <div style="text-align : center;">
-     <img src="https://www.clipartmax.com/png/small/330-3306554_cinnamoroll-sanrio-cinnamon-roll-transparent.png">
+     <img src="/clipart3306554.png">
 </div>
 
 <h2 align="center"> 💫 Dark mode freak </h2>
