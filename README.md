@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center"> 💫 Dark mode freak </h2>
-<h3 align="center"> I’m currently working on nothing! <h3><br><br>
+<h3 align="center"> Let's stack up <h3><br><br>
   
 <!--
 **Blunf/Blunf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-     
-     
-     
-     
-     
+
      
      
 <p align="center"> 
