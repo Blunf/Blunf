@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src=”https://image.pngaaa.com/558/4690558-middle.png”, align="center">
+  <img src=”https://image.pngaaa.com/558/4690558-middle.png”></a>&nbsp 
 </p>                                                                         
 
 <h2 align="center"> 💫 Dark mode freak </h2>
