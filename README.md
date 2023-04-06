@@ -1,8 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://image.pngaaa.com/558/4690558-middle.png)">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.clipartmax.com/png/middle/330-3306554_cinnamoroll-sanrio-cinnamon-roll-transparent.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://image.pngaaa.com/558/4690558-middle.png">
-</picture>                                                     
+
+<center>
+     <img src="/pngaaa.com-4690558.png">
+</center>
 
 <h2 align="center"> 💫 Dark mode freak </h2>
 <h3 align="center"> I’m currently working on nothing! <h3><br><br>
