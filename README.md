@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry)</p>
      
-     <p align="center"> 
+<p align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry" />
 </a>
