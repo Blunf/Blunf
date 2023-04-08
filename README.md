@@ -3,7 +3,7 @@
      <img src="/clipart3306554.png">
 </p>
 
-<h2 align="center"> 💫 Dark mode freak </h2>
+<h2 align="center"> 💫 </h2>
 <h3 align="center"> Let's stack up <h3><br><br>
   
 <!--
