@@ -1,5 +1,5 @@
 
-<h1 align="left"> 목표: 연세대 편입 준비중</h1>
+<h1 align="left"> 목표: 편입 준비중</h1>
 
 <h2 align="center"> 💫 </h2>
 <h3 align="center"> Let's stack up <h3><br><br>
