@@ -2,6 +2,7 @@
 
 
 <h2 align="center"> 💫 </h2>
+
 <!--
 **Blunf/Blunf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
