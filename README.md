@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Geffi_Profile_Round.jpg" width="200" height="200" style="border-radius: 50%;">
+  <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <!--
