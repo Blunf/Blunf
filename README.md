@@ -1,12 +1,12 @@
 
 
 
-<p align="center" style="margin-bottom: 20px;>
+<p align="center" style="margin-bottom: 20px;">
   <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <strong>Blunf</strong>
+  <h1>Blunf</h1>
 </p>
 
 
