@@ -7,7 +7,12 @@
 
 <h1 align="center">Blunf</h1>
 
+<p align="center" style="margin-top: 100px;">
+ 건국대학교 기술경영학과(학사) <br> 건국대학교 산업공학과(학사) <br><br><br>
 
+
+
+ </p>
 
 
   
