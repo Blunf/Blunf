@@ -5,7 +5,7 @@
   <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Blunf</h1>
+<h1 align="center">김경원</h1>
 
 <p align="center" style="margin-top: 100px;">
  건국대학교 기술경영학과(학사) <br> 건국대학교 산업공학과(학사) <br><br><br>
