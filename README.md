@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 
      
      
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+    <img src="https://readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://readme-stats.vercel.app/api/top-langs/?username=Blunf&layout=compact&langs_count=4&theme=blueberry" alt="Top Languages" />
+    <img src="https://readme-stats.vercel.app/api/top-langs/?username=Blunf&layout=compact&langs_count=4&theme=blueberry" />
   </a>
-</div>
+</p>
+
 </p>
 
