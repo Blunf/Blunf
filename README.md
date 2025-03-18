@@ -5,9 +5,7 @@
   <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-<p align="center">
-  <h1>Blunf</h1>
-</p>
+<h1 allign="center">Blunf</h1>
 
 
 
