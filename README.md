@@ -1,8 +1,9 @@
 
 
 
-<h2 align="center"> 💫 </h2>
-<h1 aligh="left"> 활동내역 </h1>
+<p align="center">
+  <img src="Geffi_Profile_Round.jpg" width="200" height="200" style="border-radius: 50%;">
+</p>
 
 <!--
 **Blunf/Blunf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
