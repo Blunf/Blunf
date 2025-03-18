@@ -1,10 +1,18 @@
 
 
 
-<p align="center">
+<p align="center" style="margin-bottom: 20px;>
   <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
 </p>
 
+<p align="center">
+  <strong>Blunf</strong>
+</p>
+
+
+
+
+  
 <!--
 **Blunf/Blunf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +30,12 @@ Here are some ideas to get you started:
 
 
      
-     
+<!--   
+
+
+이거 왜않뒈 ㅅㅂ;;
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://readme-stats.vercel.app/api?username=Blunf&show_icons=true&theme=blueberry" />
@@ -34,3 +47,4 @@ Here are some ideas to get you started:
 
 </p>
 
+-->
