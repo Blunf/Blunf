@@ -8,8 +8,7 @@
 <h1 align="center">김경원</h1>
 
 <p align="center" style="margin-top: 100px;">
- 건국대학교 기술경영학과(학사) <br> 건국대학교 산업공학과(학사)<br> <br><br><br>
-Alkon<br>메이커스팜<br>건대교지<br>(Kuit 하고싶어요)<br>위아이티
+ 건국대학교 기술경영학과(학사) <br> 건국대학교 산업공학과(학사)<br>
 
 <!--
 
