@@ -1,19 +1,16 @@
 
 
-
 <p align="center" style="margin-bottom: 50px;">
   <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">김경원</h1>
 
-<p align="center" style="margin-top: 100px; font-size: 90px">
- 건국대학교 기술경영학과(학사) <br> 건국대학교 산업공학과(학사)<br>
+<div align="center" style="margin-top: 100px; font-size: 20px; line-height: 1.8;">
+  건국대학교 기술경영학과 (학사)<br>
+  건국대학교 산업공학과 (학사)
+</div>
 
-
-
-
- </p>
 
 
   
