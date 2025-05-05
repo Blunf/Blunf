@@ -7,20 +7,10 @@
 
 <h1 align="center">김경원</h1>
 
-<p align="center" style="margin-top: 100px;">
+<p align="center" style="margin-top: 100px; font-size: 30px">
  건국대학교 기술경영학과(학사) <br> 건국대학교 산업공학과(학사)<br>
 
-<!--
 
-
-
-<p align="center" style="margin-top: 1000px;">
-서울시 1인가구데이터 분석 프로젝트
-</p>
-
-
-
--->
 
 
  </p>
