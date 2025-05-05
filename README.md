@@ -6,7 +6,7 @@
 
 <h1 align="center">김경원</h1>
 
-<div align="center" style="margin-top: 100px; font-size: 20px; line-height: 1.8;">
+<div align="center" style="margin-top: 100px; font-size: 90px; line-height: 1.8;">
   건국대학교 기술경영학과 (학사)<br>
   건국대학교 산업공학과 (학사)
 </div>
