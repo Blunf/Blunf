@@ -7,11 +7,42 @@
 <h1 align="center">김경원</h1>
 
 <div align="center" style="margin-top: 100px; font-size: 90px; line-height: 1.8;">
-  건국대학교 기술경영학과 (학사)<br><br>
+  건국대학교 기술경영학과 (학사)<br>
   건국대학교 산업공학과 (학사)
 </div>
 
-
+<div align="center" style="margin-top: 200px; line-height: 1.8;">
+2023.01 - 위아이티 (연합동아리)<br>
+서울시 1인가구 데이터 분석 프로젝트 (Python pandas)
+<br><br><br><br>
+2023.06 - ALKON (교내동아리)<br>
+알고리즘 프로젝트 (C++)
+<br><br><br><br>
+2024.06 - 토익<br>
+TOEIC 830점
+<br><br><br><br>
+2025.02 - 토이프로젝트<br>
+개인 웹사이트 개발 (html,css,js)
+<br><br><br><br>
+2025.03 - 기술보고서<br>
+AI산업의 기술 트렌드와 투자 동향 분석 보고서
+<br><br><br><br>
+2025.03 - 건국대학교 교지편집위원회 <br>
+데이터저널리즘 팀
+<br><br><br><br>
+2025.03 - 메이커스팜 (교내동아리)<br>
+앱개발 프로젝트 (React Native)
+<br><br><br><br>
+2025.04 - 프로젝트<br>
+머신러닝 모델을 활용한 마케팅 인사이트 도출
+<br><br><br><br>
+2025.04 - 프로젝트<br>
+대한민국 지식산업센터 활성화 문제 분석 및 머신러닝 모델 개발
+<br><br><br><br>
+2025.05 - KU 창업클럽<br>
+KU 창업클럽 3기
+<br><br><br><br>
+</div>
 
   
 <!--
