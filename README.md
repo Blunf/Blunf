@@ -1,11 +1,15 @@
 <table>
   <tr>
-    <td width="200">
-      <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
+    <td style="vertical-align: middle; padding-right: 20px;">
+      <img src="Geffi_Profile_Round.png" width="160" height="160" style="border-radius: 50%;">
     </td>
-    <td>
-      <h2>건국대학교 기술경영학과 (학사)<br>
-      건국대학교 산업공학과 (학사)</h2>
+    <td style="vertical-align: middle;">
+      <h2 style="margin: 0;">김경원</h2>
+      <p style="font-size: 20px; margin: 0;">
+        김경원(03)
+        건국대학교 기술경영학과 (학사)<br>
+        건국대학교 산업공학과 (학사)
+      </p>
     </td>
   </tr>
 </table>
@@ -13,7 +17,6 @@
 
 </div>
 
-<h1 align="center">김경원</h1>
 <h3 align="center">강화학습 : 보상심리학을 바탕으로 기계가 환경과 상호작용하면서 더 많은 보상을 얻기 위해 최적의 행동을 스스로 찾아가는 학습 방식 (즉, 사탕을 준다)</h3>
 
 <br>
