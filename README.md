@@ -1,15 +1,16 @@
+<table>
+  <tr>
+    <td width="200">
+      <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h2>건국대학교 기술경영학과 (학사)<br>
+      건국대학교 산업공학과 (학사)</h2>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 100px; gap: 50px;">
-  <!-- 왼쪽: 프로필 이미지 -->
-  <div>
-    <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
-  </div>
 
-  <!-- 오른쪽: 학력 정보 -->
-  <div style="font-size: 40px; line-height: 1.8; text-align: left;">
-    건국대학교 기술경영학과 (학사)<br>
-    건국대학교 산업공학과 (학사)
-  </div>
 </div>
 
 <h1 align="center">김경원</h1>
