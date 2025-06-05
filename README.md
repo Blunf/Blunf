@@ -1,19 +1,22 @@
 
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 100px; gap: 50px;">
+  <!-- 왼쪽: 프로필 이미지 -->
+  <div>
+    <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
+  </div>
 
-<p align="center" style="margin-bottom: 50px;">
-  <img src="Geffi_Profile_Round.png" width="200" height="200" style="border-radius: 50%;">
-</p>
+  <!-- 오른쪽: 학력 정보 -->
+  <div style="font-size: 40px; line-height: 1.8; text-align: left;">
+    건국대학교 기술경영학과 (학사)<br>
+    건국대학교 산업공학과 (학사)
+  </div>
+</div>
 
 <h1 align="center">김경원</h1>
 <h3 align="center">강화학습 : 보상심리학을 바탕으로 기계가 환경과 상호작용하면서 더 많은 보상을 얻기 위해 최적의 행동을 스스로 찾아가는 학습 방식 (즉, 사탕을 준다)</h3>
 
 <br>
 
-<div align="center" style="margin-top: 100px; font-size: 90px; line-height: 1.8;">
-  건국대학교 기술경영학과 (학사)<br>
-  건국대학교 산업공학과 (학사)
-  <br><br><br><br>
-</div>
 
 <div align="left" style="margin-top: 200px; line-height: 1.8;">
 ☁️  2023.01-위아이티(연합동아리) 서울시 1인가구 DA 프로젝트 (Python pandas)
