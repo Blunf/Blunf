@@ -17,3 +17,4 @@
 ☁️  ADSP 데이터분석 준전문가 자격증<br>
 ☁️  협업필터링 모델을 활용한 비즈니스 인사이트 도출 [MP/EDA]<br>
 ☁️  SK AI Dream Camp<br>
+☁️  부스트캠프 AI Tech X 코칭스터디<br>
