@@ -18,3 +18,4 @@
 ☁️  협업필터링 모델을 활용한 비즈니스 인사이트 도출 [MP/EDA]<br>
 ☁️  SK AI Dream Camp<br>
 ☁️  부스트캠프 AI Tech X 코칭스터디<br>
+☁️  코딩자율학습단 15기<br>
