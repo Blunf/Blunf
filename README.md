@@ -1,7 +1,7 @@
 ☁️ 건국대학교 기술경영학과(학사)<br>
 ☁️ 건국대학교 산업공학과(학사)<br><br>
 ☁️ 자격증 : 토익(830) ADSP(데이터분석 준전문가)<br><br>
-☁️ 사용 : Notion  Figma  Python  C  Java  HTML&CSS
+☁️ 사용 : Notion  Figma  Python  C  Java  HTML  CSS
 <br><br><br>
 ☁️  위아이티(연합동아리) 서울시 1인가구 DA 프로젝트<br>
 ☁️  ALKON(교내동아리) 알고리즘 프로젝트 (C++)<br>
