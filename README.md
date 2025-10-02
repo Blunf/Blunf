@@ -3,7 +3,7 @@
 ☁️ 자격증 : 토익(830) ADSP(데이터분석 준전문가)<br><br>
 ☁️ 스택 : Notion Figma Git  Python  C  Java  HTML  CSS
 <br><br><br>
-### **포르폴리오 latest**
+### **포르폴리오(LTS)**
 https://geffi.notion.site/27c2323e36ca8095a6acf6b4bf336742?source=copy_link
 <br><br><br>
 ☁️  위아이티(연합동아리) 서울시 1인가구 DA 프로젝트<br>
