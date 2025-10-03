@@ -4,7 +4,7 @@
 ☁️ 스택 : Notion Figma Git  Python  C  Java  HTML  CSS
 <br><br><br>
 ### **포르폴리오(LTS)**
-https://geffi.notion.site/27c2323e36ca8095a6acf6b4bf336742
+>> https://geffi.notion.site/27c2323e36ca8095a6acf6b4bf336742
 <br><br><br>
 ☁️  위아이티(연합동아리) 서울시 1인가구 DA 프로젝트<br>
 ☁️  ALKON(교내동아리) 알고리즘 프로젝트 (C++)<br>
